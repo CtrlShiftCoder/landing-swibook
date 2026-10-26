@@ -1,0 +1,110 @@
+.waitlist {
+  width: min(32rem, 100%);
+  margin: 0 auto;
+  text-align: left;
+}
+
+.waitlist-grid {
+  display: grid;
+  gap: 0.85rem;
+}
+
+@media (min-width: 640px) {
+  .waitlist-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .waitlist-field-full {
+    grid-column: 1 / -1;
+  }
+}
+
+.waitlist-field {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.waitlist-field span {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.waitlist-field input,
+.waitlist-field select {
+  width: 100%;
+  border: 1px solid var(--line, rgba(255, 255, 255, 0.14));
+  border-radius: 0.85rem;
+  background: rgba(255, 255, 255, 0.04);
+  color: #fff;
+  padding: 0.85rem 1rem;
+  font: inherit;
+  outline: none;
+  transition:
+    border-color 0.2s ease,
+    background 0.2s ease;
+}
+
+.waitlist-field select {
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, rgba(255, 255, 255, 0.55) 50%),
+    linear-gradient(135deg, rgba(255, 255, 255, 0.55) 50%, transparent 50%);
+  background-position:
+    calc(100% - 1.15rem) 50%,
+    calc(100% - 0.85rem) 50%;
+  background-size: 0.35rem 0.35rem, 0.35rem 0.35rem;
+  background-repeat: no-repeat;
+  padding-right: 2.4rem;
+  cursor: pointer;
+}
+
+.waitlist-field select option {
+  color: #111;
+  background: #fff;
+}
+
+.waitlist-field input::placeholder {
+  color: rgba(255, 255, 255, 0.35);
+}
+
+.waitlist-field input:focus,
+.waitlist-field select:focus {
+  border-color: rgba(0, 200, 255, 0.55);
+  background-color: rgba(0, 200, 255, 0.06);
+}
+
+.waitlist-submit {
+  width: 100%;
+  margin-top: 1rem;
+  justify-content: center;
+}
+
+.waitlist-note {
+  margin: 0.85rem 0 0;
+  text-align: center;
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 1.45;
+}
+
+.waitlist-error {
+  margin: 0.65rem 0 0;
+  text-align: center;
+  color: #ff8f9f;
+  font-size: 0.88rem;
+}
+
+.waitlist-done {
+  text-align: center;
+  display: grid;
+  gap: 1rem;
+  justify-items: center;
+}
+
+.waitlist-success {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: #fff;
+  max-width: 28ch;
+}

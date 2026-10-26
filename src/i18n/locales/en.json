@@ -1,0 +1,376 @@
+{
+  "seo": {
+    "title": "Swibook — Swipe. Book. Done.",
+    "description": "The fastest way to book a slot. Your clients swipe, book, and done. You focus on serving; Swibook fills your calendar. No calls, no back-and-forth, no “I’ll confirm later”.",
+    "keywords": "online booking, scheduling, appointments, swipe, book, Swibook, no friction, LATAM",
+    "ogImageAlt": "Swibook — Swipe. Book. Done."
+  },
+  "nav": {
+    "aria": "Sections",
+    "how": "How it works",
+    "connect": "Connection",
+    "niches": "Businesses",
+    "product": "Product",
+    "faq": "FAQ",
+    "start": "Waitlist",
+    "menu": "Menu",
+    "close": "Close",
+    "lang": "Language"
+  },
+  "hero": {
+    "title": "Swipe. Book. Done.",
+    "lede": "Booking a slot as easy as a finger swipe. No more calls, endless chats, or “I’ll confirm later”.",
+    "ctaPrimary": "Reserve my spot",
+    "ctaSecondary": "See how it works",
+    "trust1": "Book in seconds",
+    "trust2": "Zero friction",
+    "trust3": "Calendar 24/7",
+    "phoneAlt": "Swibook Today screen on a phone"
+  },
+  "connect": {
+    "kicker": "The loop",
+    "title": "Clients and businesses, connected",
+    "lede": "Swibook is the bridge: clients book alone; you get the appointment and keep serving.",
+    "client": {
+      "title": "Client",
+      "body": "Opens your link, sees open slots, and books in a swipe."
+    },
+    "hub": {
+      "body": "Joins both sides: storefront, schedule, and confirmation — all inside the app."
+    },
+    "biz": {
+      "title": "Business",
+      "body": "You get the booking, confirm in the app, and your calendar fills 24/7."
+    },
+    "flowOut": "Booking",
+    "flowIn": "Schedule",
+    "flowBack": "In-app confirmation",
+    "steps": [
+      {
+        "title": "Share your link",
+        "body": "Your public storefront travels via Instagram, bio, or wherever you serve."
+      },
+      {
+        "title": "The client books",
+        "body": "They pick service, pro, and time — no back-and-forth chat."
+      },
+      {
+        "title": "You serve",
+        "body": "The slot lands on your Swibook calendar. Confirm there and done."
+      }
+    ]
+  },
+  "tour": {
+    "kicker": "One gesture, booked",
+    "title": "Swipe + book = Swibook",
+    "lede": "Swipe, pick a time, done. Real product screens — the demo is a barbershop; the flow fits any appointment business.",
+    "caption": "{{label}} · Live demo",
+    "demoPrefix": "Try a demo storefront:",
+    "slides": [
+      {
+        "src": "/app-shots/01-hoy.png",
+        "label": "Today",
+        "title": "Your day, clear",
+        "body": "What’s on, who’s coming, what to do next. No missed slots."
+      },
+      {
+        "src": "/app-shots/02-agenda.png",
+        "label": "Schedule",
+        "title": "Open times in view",
+        "body": "Clients see what’s free and grab a slot instantly."
+      },
+      {
+        "src": "/app-shots/03-servicios.png",
+        "label": "Services",
+        "title": "Your catalog ready",
+        "body": "Clear prices and duration. What clients see when they book."
+      },
+      {
+        "src": "/app-shots/05-vitrina.png",
+        "label": "Storefront",
+        "title": "Your link that sells",
+        "body": "Share it and go. Your calendar works even when you’re offline."
+      },
+      {
+        "src": "/app-shots/06-reservar.png",
+        "label": "Book",
+        "title": "Swipe and book",
+        "body": "Service → pro → time. No endless accounts or long forms."
+      },
+      {
+        "src": "/app-shots/07-clientes.png",
+        "label": "Clients",
+        "title": "Who comes back",
+        "body": "Your local base in one tap. Rebook without endless chat."
+      },
+      {
+        "src": "/app-shots/04-negocio.png",
+        "label": "Business",
+        "title": "Simple operations",
+        "body": "Team, hours, shop status. If you can use a phone, you can use Swibook."
+      }
+    ]
+  },
+  "hooks": {
+    "kicker": "The promise",
+    "title": "Why choose us",
+    "lede": "Agile, warm, and straight to the point — like the efficient friend who just gets it done.",
+    "items": [
+      {
+        "src": "/lifestyle/salon.jpg",
+        "alt": "Swibook Today screen on a phone — salon and beauty",
+        "caption": "Today · Salon & beauty"
+      },
+      {
+        "src": "/lifestyle/clinic.jpg",
+        "alt": "Swibook Schedule screen on a phone — clinic and health",
+        "caption": "Schedule · Clinic & health"
+      },
+      {
+        "src": "/lifestyle/fitness.jpg",
+        "alt": "Swibook Book flow on a phone — fitness and wellness",
+        "caption": "Book · Fitness"
+      },
+      {
+        "src": "/lifestyle/freelance.jpg",
+        "alt": "Swibook public storefront on a phone — independents",
+        "caption": "Storefront · Services"
+      }
+    ],
+    "sell": [
+      {
+        "title": "Real speed",
+        "body": "Bookings in seconds. No endless account creation or long forms."
+      },
+      {
+        "title": "Zero friction",
+        "body": "Clients see open slots and take one instantly. No waiting for a reply."
+      },
+      {
+        "title": "More hours sold",
+        "body": "Your calendar works 24/7 — even while you sleep. You focus on serving."
+      }
+    ]
+  },
+  "niches": {
+    "kicker": "For people who live by their calendar",
+    "title": "Your slot in a swipe",
+    "lede": "Salons, barbershops, beauty studios, physios, therapists, trainers, clinics, and more. If you book appointments, Swibook is for you.",
+    "aria": "Business types",
+    "cta": "Reserve my spot",
+    "items": {
+      "beauty": {
+        "label": "Beauty",
+        "headline": "Salon without the back-and-forth",
+        "body": "Clients swipe, book, done. You serve; Swibook fills the calendar.",
+        "mood": "Beauty that flows",
+        "image": "/lifestyle/salon.jpg"
+      },
+      "health": {
+        "label": "Health",
+        "headline": "Sessions without “I’ll confirm”",
+        "body": "Open times in view. Patients book alone. You focus on care.",
+        "mood": "Care, instantly",
+        "image": "/lifestyle/clinic.jpg"
+      },
+      "fitness": {
+        "label": "Fitness",
+        "headline": "Sessions that fill themselves",
+        "body": "Your calendar never sleeps. Trainers and studios sell hours while they train.",
+        "mood": "Energy on the calendar",
+        "image": "/lifestyle/fitness.jpg"
+      },
+      "services": {
+        "label": "Services",
+        "headline": "Simple for everyone",
+        "body": "If you can use a phone, you can use Swibook. Shops, offices, workshops, and more.",
+        "mood": "Booking, fast",
+        "image": "/lifestyle/freelance.jpg"
+      }
+    }
+  },
+  "features": {
+    "kicker": "Product",
+    "title": "Booking was never this fast",
+    "lede": "What you gain every day: less chat, more booked hours, a calendar that’s always open.",
+    "items": [
+      {
+        "title": "Swipe, book, done",
+        "body": "One gesture and you’re booked. The name says it: swipe + book."
+      },
+      {
+        "title": "Your calendar always open",
+        "body": "Public link 24/7. Clients take a slot without waiting in chat."
+      },
+      {
+        "title": "Less back-and-forth",
+        "body": "No more calls or “I’ll confirm later”. Open times, instant decision."
+      },
+      {
+        "title": "You serve, Swibook books",
+        "body": "Team, reminders, simple ops. No jargon. No complexity."
+      }
+    ]
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "title": "Straight answers",
+    "lede": "Short replies. What you need to decide.",
+    "items": [
+      {
+        "q": "What does Swibook mean?",
+        "a": "Swipe + book. One gesture and you’re scheduled. Sounds the same in Spanish and English."
+      },
+      {
+        "q": "Is it only for barbershops or salons?",
+        "a": "No. It’s for anyone who lives by their calendar: beauty, health, fitness, clinics, practices, and more."
+      },
+      {
+        "q": "How do clients book?",
+        "a": "They open your link, see open times, and take one. Swipe, book, done — no endless forms."
+      },
+      {
+        "q": "Is it hard to use?",
+        "a": "If you can use a phone, you can use Swibook. Simple for you and your clients."
+      },
+      {
+        "q": "When does it launch and what does it cost?",
+        "a": "We’re opening access in waves via the waitlist. Pricing is confirmed when you get in — we’ll tell you before any charge starts."
+      }
+    ]
+  },
+  "cta": {
+    "kicker": "Waitlist",
+    "title": "Reserve your waitlist spot",
+    "lede": "Swibook is opening access in waves. Leave your details and we’ll tell you when you can get in — no spam, just access.",
+    "secondary": "See the flow again"
+  },
+  "waitlist": {
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "you@business.com",
+    "role": "I am",
+    "roleProfessional": "A professional / I run a business",
+    "roleClient": "A client / I want to book",
+    "business": "Business (optional)",
+    "businessPlaceholder": "e.g. salon, clinic, trainer…",
+    "submit": "Join the waitlist",
+    "submitting": "Reserving…",
+    "note": "We’ll only contact you when a spot opens.",
+    "success": "You’re on the waitlist. We’ll email you when your spot opens.",
+    "again": "Add another email",
+    "errorEmail": "Check the email and try again.",
+    "errorRole": "Choose whether you’re a professional or a client.",
+    "errorGeneric": "We couldn’t save your spot. Please try again."
+  },
+  "footer": {
+    "tagline": "Swipe. Book. Done.",
+    "copyright": "© {{year}} Swibook. All rights reserved.",
+    "terms": "Terms & conditions",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  },
+  "legal": {
+    "kicker": "Legal",
+    "back": "Back to home",
+    "contactLabel": "Questions? Email us at",
+    "contactEmail": "hola@swibook.app",
+    "terms": {
+      "metaTitle": "Terms & conditions — Swibook",
+      "metaDescription": "Terms and conditions for using Swibook, the frictionless booking calendar.",
+      "title": "Terms & conditions",
+      "updated": "Last updated: October 25, 2026",
+      "sections": [
+        {
+          "title": "1. Acceptance",
+          "body": "By using Swibook (website, app, or booking storefront) you accept these terms. If you disagree, do not use the service."
+        },
+        {
+          "title": "2. What Swibook is",
+          "body": "Swibook is a platform for booking appointments: public link, schedule, team, and client messaging. The product may evolve; we will communicate material changes when appropriate."
+        },
+        {
+          "title": "3. Your account and business",
+          "body": "You are responsible for the information you publish (services, prices, hours, images) and for fulfilling the bookings you receive. You must be entitled to offer those services and comply with applicable rules for your craft."
+        },
+        {
+          "title": "4. Acceptable use",
+          "body": "Use Swibook lawfully and respectfully. Abuse, identity fraud, interference with the platform, or illegal or deceptive use is not allowed."
+        },
+        {
+          "title": "5. Bookings and client relationships",
+          "body": "The commercial relationship is between you and your client. Swibook enables scheduling; it is not a party to the service contract you offer unless stated otherwise in writing."
+        },
+        {
+          "title": "6. Availability",
+          "body": "We aim for 24/7 availability, but maintenance, outages, or errors may occur. Uninterrupted availability is not guaranteed."
+        },
+        {
+          "title": "7. Intellectual property",
+          "body": "Swibook, its brand, design, and software belong to their owners. You keep rights to content you upload; you grant us a limited license to operate it inside the service."
+        },
+        {
+          "title": "8. Limitation of liability",
+          "body": "To the extent permitted by law, Swibook is not liable for lost profits, data loss, or indirect damages arising from use of — or inability to use — the service."
+        },
+        {
+          "title": "9. Changes",
+          "body": "We may update these terms. The update date appears above. Continued use after changes means acceptance."
+        },
+        {
+          "title": "10. Contact",
+          "body": "Questions about these terms: hola@swibook.app."
+        }
+      ]
+    },
+    "privacy": {
+      "metaTitle": "Privacy policy — Swibook",
+      "metaDescription": "How Swibook handles personal data for businesses and people who book.",
+      "title": "Privacy policy",
+      "updated": "Last updated: October 25, 2026",
+      "sections": [
+        {
+          "title": "1. Who we are",
+          "body": "Swibook operates the booking calendar and storefront at swibook.sibylab.com and related domains. Contact: hola@swibook.app."
+        },
+        {
+          "title": "2. Data we process",
+          "body": "We may process account data (name, email, business), schedule data (appointments, services, booking clients), technical data (IP, device, logs), and information you send via support or contact."
+        },
+        {
+          "title": "3. Why we use it",
+          "body": "To provide booking, maintain your account, improve the product, send operational notices, and meet legal duties. We do not sell your data to third parties for unrelated marketing."
+        },
+        {
+          "title": "4. Legal bases and processors",
+          "body": "We process data to perform the service contract and, where applicable, for legitimate interests (security, improvement) or consent. We may use infrastructure and messaging providers under processing agreements."
+        },
+        {
+          "title": "5. End customers",
+          "body": "If a business uses Swibook, that business is responsible for its clients’ data. Swibook acts as technology processor/platform as applicable. The business must inform its clients as required by law."
+        },
+        {
+          "title": "6. Retention",
+          "body": "We keep data while the account is active and as needed for legal, dispute, or security purposes, then delete or anonymize when appropriate."
+        },
+        {
+          "title": "7. Your rights",
+          "body": "You may request access, correction, deletion, or objection under applicable law. Email hola@swibook.app. You may also opt out of non-essential communications."
+        },
+        {
+          "title": "8. Cookies",
+          "body": "The site may use technical cookies and, where applicable, measurement cookies. You can control cookies in your browser; some are required for the site to work."
+        },
+        {
+          "title": "9. Security",
+          "body": "We apply reasonable security measures. No system is 100% secure; please protect your credentials."
+        },
+        {
+          "title": "10. Changes",
+          "body": "We may update this policy. The update date will appear on this page."
+        }
+      ]
+    }
+  }
+}

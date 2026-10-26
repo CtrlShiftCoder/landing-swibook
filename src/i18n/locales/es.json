@@ -1,0 +1,376 @@
+{
+  "seo": {
+    "title": "Swibook — Desliza. Reserva. Listo.",
+    "description": "La forma más rápida de agendar una hora. Tus clientes deslizan, reservan y listo. Tú atiendes; Swibook llena tu agenda. Sin vueltas ni “te confirmo después”.",
+    "keywords": "reservas online, agenda, citas, swipe, book, Swibook, sin fricción, LATAM",
+    "ogImageAlt": "Swibook — Desliza. Reserva. Listo."
+  },
+  "nav": {
+    "aria": "Secciones",
+    "how": "Cómo funciona",
+    "connect": "Conexión",
+    "niches": "Negocios",
+    "product": "Producto",
+    "faq": "FAQ",
+    "start": "Lista de espera",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "lang": "Idioma"
+  },
+  "hero": {
+    "title": "Desliza. Reserva. Listo.",
+    "lede": "Tomar una hora tan fácil como deslizar el dedo. Se acabaron las llamadas, los mensajes de ida y vuelta y el “te confirmo después”.",
+    "ctaPrimary": "Lista de espera",
+    "ctaSecondary": "Ver cómo funciona",
+    "trust1": "Reservas en segundos",
+    "trust2": "Cero fricción",
+    "trust3": "Tu agenda 24/7",
+    "phoneAlt": "Pantalla Hoy de Swibook en el celular"
+  },
+  "connect": {
+    "kicker": "El circuito",
+    "title": "Cliente y negocio, conectados",
+    "lede": "Swibook es el puente: el cliente reserva solo; tú recibes la cita y sigues atendiendo.",
+    "client": {
+      "title": "Cliente",
+      "body": "Abre tu link, ve horas libres y toma una en un swipe."
+    },
+    "hub": {
+      "body": "Une ambos lados: vitrina, agenda y confirmación — todo dentro de la app."
+    },
+    "biz": {
+      "title": "Negocio",
+      "body": "Recibes la reserva, confirmas en la app y tu agenda se llena 24/7."
+    },
+    "flowOut": "Reserva",
+    "flowIn": "Agenda",
+    "flowBack": "Confirmación en la app",
+    "steps": [
+      {
+        "title": "Comparte tu link",
+        "body": "Tu vitrina pública llega por Instagram, bio o donde atiendas."
+      },
+      {
+        "title": "El cliente reserva",
+        "body": "Elige servicio, profesional y hora — sin chat de ida y vuelta."
+      },
+      {
+        "title": "Tú atiendes",
+        "body": "La cita llega a tu agenda en Swibook. Confirmas ahí mismo y listo."
+      }
+    ]
+  },
+  "tour": {
+    "kicker": "Un gesto, agendado",
+    "title": "Swipe + book = Swibook",
+    "lede": "Desliza, elige hora y listo. Pantallas reales del producto — el ejemplo es una barbería; el flujo sirve para cualquier negocio con citas.",
+    "caption": "{{label}} · Demo en vivo",
+    "demoPrefix": "Prueba una vitrina demo:",
+    "slides": [
+      {
+        "src": "/app-shots/01-hoy.png",
+        "label": "Hoy",
+        "title": "Tu día, claro",
+        "body": "Qué tienes, quién viene y qué hacer ahora. Sin perder citas."
+      },
+      {
+        "src": "/app-shots/02-agenda.png",
+        "label": "Agenda",
+        "title": "Horas libres a la vista",
+        "body": "El cliente ve lo disponible y toma una hora al instante."
+      },
+      {
+        "src": "/app-shots/03-servicios.png",
+        "label": "Servicios",
+        "title": "Tu catálogo listo",
+        "body": "Precios y duración claros. Lo que ven tus clientes al reservar."
+      },
+      {
+        "src": "/app-shots/05-vitrina.png",
+        "label": "Vitrina",
+        "title": "Tu link que vende",
+        "body": "Comparte y listo. Tu agenda trabaja aunque tú no estés online."
+      },
+      {
+        "src": "/app-shots/06-reservar.png",
+        "label": "Reservar",
+        "title": "Desliza y reserva",
+        "body": "Servicio → profesional → hora. Sin cuentas eternas ni formularios largos."
+      },
+      {
+        "src": "/app-shots/07-clientes.png",
+        "label": "Clientes",
+        "title": "Quienes vuelven",
+        "body": "Tu base local a un toque. Reagenda sin chat eterno."
+      },
+      {
+        "src": "/app-shots/04-negocio.png",
+        "label": "Negocio",
+        "title": "Operación simple",
+        "body": "Equipo, horarios y estado del local. Si usas el celular, usas Swibook."
+      }
+    ]
+  },
+  "hooks": {
+    "kicker": "La promesa",
+    "title": "Por qué elegirnos",
+    "lede": "Ágil, cercano y al grano. Como ese amigo eficiente que te resuelve todo — con buena onda.",
+    "items": [
+      {
+        "src": "/lifestyle/salon.jpg",
+        "alt": "Pantalla Hoy de Swibook en el celular — salón y belleza",
+        "caption": "Hoy · Salón y belleza"
+      },
+      {
+        "src": "/lifestyle/clinic.jpg",
+        "alt": "Pantalla Agenda de Swibook en el celular — clínica y salud",
+        "caption": "Agenda · Clínica y salud"
+      },
+      {
+        "src": "/lifestyle/fitness.jpg",
+        "alt": "Flujo Reservar de Swibook en el celular — fitness y bienestar",
+        "caption": "Reservar · Fitness"
+      },
+      {
+        "src": "/lifestyle/freelance.jpg",
+        "alt": "Vitrina pública de Swibook en el celular — independientes",
+        "caption": "Vitrina · Servicios"
+      }
+    ],
+    "sell": [
+      {
+        "title": "Rapidez real",
+        "body": "Reservas en segundos. Sin crear cuentas eternas ni llenar formularios largos."
+      },
+      {
+        "title": "Cero fricción",
+        "body": "El cliente ve las horas libres y toma una al instante. Sin esperar respuesta."
+      },
+      {
+        "title": "Más horas vendidas",
+        "body": "Tu agenda trabaja 24/7, incluso mientras duermes. Tú te dedicas a atender."
+      }
+    ]
+  },
+  "niches": {
+    "kicker": "Para quien vive de su agenda",
+    "title": "Tu hora en un swipe",
+    "lede": "Peluquerías, barberías, estética, kinesiólogos, psicólogos, entrenadores, clínicas y más. Si atiendes con cita, Swibook es para ti.",
+    "aria": "Tipos de negocio",
+    "cta": "Lista de espera",
+    "items": {
+      "beauty": {
+        "label": "Belleza",
+        "headline": "Salón sin vueltas",
+        "body": "Tus clientes deslizan, reservan y listo. Tú atiendes; Swibook llena la agenda.",
+        "mood": "Belleza que fluye",
+        "image": "/lifestyle/salon.jpg"
+      },
+      "health": {
+        "label": "Salud",
+        "headline": "Consultas sin “te confirmo”",
+        "body": "Horas libres a la vista. Pacientes agendan solos. Tú te enfocas en cuidar.",
+        "mood": "Cuidado al instante",
+        "image": "/lifestyle/clinic.jpg"
+      },
+      "fitness": {
+        "label": "Fitness",
+        "headline": "Sesiones que se llenan solas",
+        "body": "Tu agenda nunca duerme. Entrenadores y estudios venden horas mientras entrenan.",
+        "mood": "Energía en agenda",
+        "image": "/lifestyle/fitness.jpg"
+      },
+      "services": {
+        "label": "Servicios",
+        "headline": "Simple para todos",
+        "body": "Si sabes usar el celular, sabes usar Swibook. Barberías, consultorios, talleres y más.",
+        "mood": "Agendar, rápido",
+        "image": "/lifestyle/freelance.jpg"
+      }
+    }
+  },
+  "features": {
+    "kicker": "Producto",
+    "title": "Agendar nunca fue tan rápido",
+    "lede": "Lo que ganas al día: menos chat, más horas tomadas, agenda siempre abierta.",
+    "items": [
+      {
+        "title": "Desliza, reserva, listo",
+        "body": "Un gesto y quedaste agendado. El nombre lo dice: swipe + book."
+      },
+      {
+        "title": "Tu agenda siempre abierta",
+        "body": "Link público 24/7. El cliente toma hora sin esperarte en el chat."
+      },
+      {
+        "title": "Menos ida y vuelta",
+        "body": "Adiós a las llamadas y al “te confirmo después”. Horas libres, decisión al instante."
+      },
+      {
+        "title": "Tú atiendes, Swibook agenda",
+        "body": "Equipo, recordatorios y operación simple. Sin lenguaje técnico ni complicaciones."
+      }
+    ]
+  },
+  "faq": {
+    "kicker": "Preguntas frecuentes",
+    "title": "Sin rodeos",
+    "lede": "Respuestas cortas. Lo que necesitas saber para decidir.",
+    "items": [
+      {
+        "q": "¿Qué significa Swibook?",
+        "a": "Viene de swipe (deslizar) y book (reservar). Un gesto y quedaste agendado. Se pronuncia igual en español y en inglés."
+      },
+      {
+        "q": "¿Solo sirve para barberías o salones?",
+        "a": "No. Es para quien vive de su agenda: belleza, salud, fitness, clínicas, consultorios y más."
+      },
+      {
+        "q": "¿Cómo reservan mis clientes?",
+        "a": "Comparten tu link, ven horas libres y toman una. Deslizan, reservan, listo — sin formularios eternos."
+      },
+      {
+        "q": "¿Es difícil de usar?",
+        "a": "Si sabes usar el celular, sabes usar Swibook. Simple para ti y para tus clientes."
+      },
+      {
+        "q": "¿Cuándo abre y cuánto cuesta?",
+        "a": "Estamos abriendo cupos por etapas con la lista de espera. El precio se confirma al darte acceso; te avisamos antes de que empiece cualquier cobro."
+      }
+    ]
+  },
+  "cta": {
+    "kicker": "Lista de espera",
+    "title": "Reserva tu lugar en la lista de espera",
+    "lede": "Swibook está abriendo cupos por etapas. Déjanos tus datos y te avisamos cuando puedas entrar — sin spam, solo acceso.",
+    "secondary": "Ver el flujo otra vez"
+  },
+  "waitlist": {
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "email": "Email",
+    "emailPlaceholder": "tunombre@negocio.com",
+    "role": "Soy",
+    "roleProfessional": "Profesional / tengo un negocio",
+    "roleClient": "Cliente / quiero reservar",
+    "business": "Negocio (opcional)",
+    "businessPlaceholder": "Ej. salón, clínica, trainer…",
+    "submit": "Quiero estar en la lista de espera",
+    "submitting": "Reservando…",
+    "note": "Te contactamos solo para avisarte cuando haya cupo.",
+    "success": "Listo — ya estás en la lista de espera. Te escribimos cuando abra tu cupo.",
+    "again": "Agregar otro email",
+    "errorEmail": "Revisa el email e inténtalo de nuevo.",
+    "errorRole": "Elige si eres profesional o cliente.",
+    "errorGeneric": "No pudimos guardar tu lugar. Inténtalo otra vez."
+  },
+  "footer": {
+    "tagline": "Desliza. Reserva. Listo.",
+    "copyright": "© {{year}} Swibook. Todos los derechos reservados.",
+    "terms": "Términos y condiciones",
+    "privacy": "Privacidad",
+    "contact": "Contacto"
+  },
+  "legal": {
+    "kicker": "Legal",
+    "back": "Volver al inicio",
+    "contactLabel": "¿Dudas? Escríbenos a",
+    "contactEmail": "hola@swibook.app",
+    "terms": {
+      "metaTitle": "Términos y condiciones — Swibook",
+      "metaDescription": "Términos y condiciones de uso de Swibook, la agenda y reservas sin fricción.",
+      "title": "Términos y condiciones",
+      "updated": "Última actualización: 25 de octubre de 2026",
+      "sections": [
+        {
+          "title": "1. Aceptación",
+          "body": "Al usar Swibook (sitio, app o vitrina de reservas) aceptas estos términos. Si no estás de acuerdo, no uses el servicio."
+        },
+        {
+          "title": "2. Qué es Swibook",
+          "body": "Swibook es una plataforma para agendar citas: link público, agenda, equipo y comunicación con clientes. El servicio puede evolucionar; avisaremos cambios relevantes cuando corresponda."
+        },
+        {
+          "title": "3. Tu cuenta y tu negocio",
+          "body": "Eres responsable de la información que publiques (servicios, precios, horarios, imágenes) y de atender las reservas que generes. Debes tener derecho a ofrecer esos servicios y cumplir la normativa aplicable a tu oficio."
+        },
+        {
+          "title": "4. Uso permitido",
+          "body": "Úsalo de forma lícita y respetuosa. No está permitido abusar del sistema, suplantar identidades, interferir con la plataforma ni usar Swibook para actividades ilegales o engañosas."
+        },
+        {
+          "title": "5. Reservas y relación con clientes",
+          "body": "La relación comercial es entre tú y tu cliente. Swibook facilita la agenda; no es parte del contrato de servicio que ofreces, salvo que se indique lo contrario por escrito."
+        },
+        {
+          "title": "6. Disponibilidad",
+          "body": "Buscamos que Swibook esté disponible 24/7, pero pueden existir mantenciones, interrupciones o errores. No garantizamos disponibilidad ininterrumpida."
+        },
+        {
+          "title": "7. Propiedad intelectual",
+          "body": "Swibook, su marca, diseño y software son de sus titulares. Tú conservas los derechos sobre el contenido que subes; nos das licencia limitada para operarlo dentro del servicio."
+        },
+        {
+          "title": "8. Limitación de responsabilidad",
+          "body": "En la medida permitida por la ley, Swibook no responde por lucros cesantes, pérdida de datos o daños indirectos derivados del uso o la imposibilidad de usar el servicio."
+        },
+        {
+          "title": "9. Cambios",
+          "body": "Podemos actualizar estos términos. La fecha de actualización aparecerá arriba. El uso continuado después del cambio implica aceptación."
+        },
+        {
+          "title": "10. Contacto",
+          "body": "Para consultas sobre estos términos: hola@swibook.app."
+        }
+      ]
+    },
+    "privacy": {
+      "metaTitle": "Política de privacidad — Swibook",
+      "metaDescription": "Cómo Swibook trata datos personales de negocios y clientes que agendan.",
+      "title": "Política de privacidad",
+      "updated": "Última actualización: 25 de octubre de 2026",
+      "sections": [
+        {
+          "title": "1. Quiénes somos",
+          "body": "Swibook opera la agenda y vitrina de reservas en swibook.sibylab.com y dominios relacionados. Contacto: hola@swibook.app."
+        },
+        {
+          "title": "2. Datos que tratamos",
+          "body": "Podemos tratar datos de cuenta (nombre, email, negocio), datos de agenda (citas, servicios, clientes que reservas), datos técnicos (IP, dispositivo, logs) y datos que envíes por contacto o soporte."
+        },
+        {
+          "title": "3. Para qué los usamos",
+          "body": "Para prestar el servicio de reservas, mantener tu cuenta, mejorar el producto, enviarte avisos operativos y cumplir obligaciones legales. No vendemos tus datos a terceros para marketing ajeno."
+        },
+        {
+          "title": "4. Base y encargados",
+          "body": "Tratamos datos para ejecutar el contrato de servicio y, cuando aplica, por interés legítimo (seguridad, mejora) o consentimiento. Podemos usar proveedores de infraestructura y mensajería bajo encargos de tratamiento."
+        },
+        {
+          "title": "5. Clientes finales",
+          "body": "Si un negocio usa Swibook, ese negocio es responsable del tratamiento de los datos de sus clientes. Swibook actúa como encargado/plataforma tecnológica según el caso. El negocio debe informar a sus clientes según la ley aplicable."
+        },
+        {
+          "title": "6. Conservación",
+          "body": "Conservamos los datos mientras la cuenta esté activa y el tiempo necesario para obligaciones legales, disputas o seguridad. Luego los eliminamos o anonimizamos cuando corresponda."
+        },
+        {
+          "title": "7. Tus derechos",
+          "body": "Puedes solicitar acceso, rectificación, eliminación u oposición según la normativa aplicable. Escríbenos a hola@swibook.app. También puedes dar de baja comunicaciones no esenciales."
+        },
+        {
+          "title": "8. Cookies",
+          "body": "El sitio puede usar cookies técnicas y, si aplica, de medición. Puedes controlar cookies desde tu navegador; algunas son necesarias para el funcionamiento."
+        },
+        {
+          "title": "9. Seguridad",
+          "body": "Aplicamos medidas razonables de seguridad. Ningún sistema es 100% invulnerable; te pedimos cuidar tus credenciales."
+        },
+        {
+          "title": "10. Cambios",
+          "body": "Podemos actualizar esta política. Publicaremos la fecha de actualización en esta página."
+        }
+      ]
+    }
+  }
+}

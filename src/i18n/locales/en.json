@@ -12,7 +12,7 @@
     "niches": "Businesses",
     "product": "Product",
     "faq": "FAQ",
-    "start": "Waitlist",
+    "login": "Log in",
     "menu": "Menu",
     "close": "Close",
     "lang": "Language"
@@ -20,7 +20,7 @@
   "hero": {
     "title": "Swipe. Book. Done.",
     "lede": "Booking a slot as easy as a finger swipe. No more calls, endless chats, or “I’ll confirm later”.",
-    "ctaPrimary": "Reserve my spot",
+    "ctaPrimary": "Log in",
     "ctaSecondary": "See how it works",
     "trust1": "Book in seconds",
     "trust2": "Zero friction",
@@ -157,7 +157,7 @@
     "title": "Your slot in a swipe",
     "lede": "Salons, barbershops, beauty studios, physios, therapists, trainers, clinics, and more. If you book appointments, Swibook is for you.",
     "aria": "Business types",
-    "cta": "Reserve my spot",
+    "cta": "Log in",
     "items": {
       "beauty": {
         "label": "Beauty",
@@ -234,39 +234,22 @@
         "a": "If you can use a phone, you can use Swibook. Simple for you and your clients."
       },
       {
-        "q": "When does it launch and what does it cost?",
-        "a": "We’re opening access in waves via the waitlist. Pricing is confirmed when you get in — we’ll tell you before any charge starts."
+        "q": "How much does it cost?",
+        "a": "Pricing is confirmed when you create your account. We’ll tell you before any charge starts."
       }
     ]
   },
   "cta": {
-    "kicker": "Waitlist",
-    "title": "Reserve your waitlist spot",
-    "lede": "Swibook is opening access in waves. Leave your details and we’ll tell you when you can get in — no spam, just access.",
+    "kicker": "Get started",
+    "title": "Log in to Swibook",
+    "lede": "Sign in and start filling your calendar with zero friction.",
+    "primary": "Log in",
     "secondary": "See the flow again"
-  },
-  "waitlist": {
-    "name": "Name",
-    "namePlaceholder": "Your name",
-    "email": "Email",
-    "emailPlaceholder": "you@business.com",
-    "role": "I am",
-    "roleProfessional": "A professional / I run a business",
-    "roleClient": "A client / I want to book",
-    "business": "Business (optional)",
-    "businessPlaceholder": "e.g. salon, clinic, trainer…",
-    "submit": "Join the waitlist",
-    "submitting": "Reserving…",
-    "note": "We’ll only contact you when a spot opens.",
-    "success": "You’re on the waitlist. We’ll email you when your spot opens.",
-    "again": "Add another email",
-    "errorEmail": "Check the email and try again.",
-    "errorRole": "Choose whether you’re a professional or a client.",
-    "errorGeneric": "We couldn’t save your spot. Please try again."
   },
   "footer": {
     "tagline": "Swipe. Book. Done.",
     "copyright": "© {{year}} Swibook. All rights reserved.",
+    "login": "Log in",
     "terms": "Terms & conditions",
     "privacy": "Privacy",
     "contact": "Contact"

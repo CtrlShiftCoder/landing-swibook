@@ -11,9 +11,9 @@ import { ScrambleTextPlugin } from "gsap/ScrambleTextPlugin";
 import { PhoneTour } from "./components/PhoneTour";
 import { Seo, SeoJsonLd } from "./components/Seo";
 import { legalPath } from "./components/LegalPage";
-import { WaitlistForm } from "./components/WaitlistForm";
 import { ConnectionDiagram } from "./components/ConnectionDiagram";
 import {
+  LOGIN_URL,
   localeFromPath,
   pathForLocale,
   type AppLocale,
@@ -552,13 +552,10 @@ export default function App() {
         <div className="nav-actions">
           <a
             className="nav-cta"
-            href="#cta"
-            onClick={(e) => {
-              e.preventDefault();
-              scrollTo("#cta");
-            }}
+            href={LOGIN_URL}
+            onClick={() => setMenuOpen(false)}
           >
-            {t("nav.start")}
+            {t("nav.login")}
           </a>
           <button
             type="button"
@@ -618,14 +615,7 @@ export default function App() {
               <p className="hero-lede">{t("hero.lede")}</p>
 
               <div className="hero-actions">
-                <a
-                  className="btn btn-primary"
-                  href="#cta"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    scrollTo("#cta");
-                  }}
-                >
+                <a className="btn btn-primary" href={LOGIN_URL}>
                   {t("hero.ctaPrimary")}
                 </a>
                 <button
@@ -743,13 +733,9 @@ export default function App() {
               <div className="niche-body">
                 <h3>{active.headline}</h3>
                 <p>{active.body}</p>
-                <button
-                  type="button"
-                  className="btn btn-primary"
-                  onClick={() => scrollTo("#cta")}
-                >
+                <a className="btn btn-primary" href={LOGIN_URL}>
                   {t("niches.cta")}
-                </button>
+                </a>
               </div>
               <div
                 className="niche-swatch"
@@ -807,8 +793,10 @@ export default function App() {
             <p className="section-kicker">{t("cta.kicker")}</p>
             <h2 className="section-title">{t("cta.title")}</h2>
             <p className="section-lede">{t("cta.lede")}</p>
-            <WaitlistForm />
-            <div className="cta-actions cta-actions-secondary">
+            <div className="cta-actions">
+              <a className="btn btn-primary" href={LOGIN_URL}>
+                {t("cta.primary")}
+              </a>
               <button
                 type="button"
                 className="btn btn-ghost"
@@ -831,6 +819,7 @@ export default function App() {
             </span>
           </div>
           <nav className="footer-links" aria-label="Legal">
+            <a href={LOGIN_URL}>{t("footer.login")}</a>
             <Link to={legalPath(locale, "terms")}>{t("footer.terms")}</Link>
             <Link to={legalPath(locale, "privacy")}>{t("footer.privacy")}</Link>
             <a href={`mailto:${t("legal.contactEmail")}`}>{t("footer.contact")}</a>

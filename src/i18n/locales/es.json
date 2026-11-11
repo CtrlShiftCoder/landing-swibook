@@ -12,7 +12,7 @@
     "niches": "Negocios",
     "product": "Producto",
     "faq": "FAQ",
-    "start": "Lista de espera",
+    "login": "Iniciar sesión",
     "menu": "Menú",
     "close": "Cerrar",
     "lang": "Idioma"
@@ -20,7 +20,7 @@
   "hero": {
     "title": "Desliza. Reserva. Listo.",
     "lede": "Tomar una hora tan fácil como deslizar el dedo. Se acabaron las llamadas, los mensajes de ida y vuelta y el “te confirmo después”.",
-    "ctaPrimary": "Lista de espera",
+    "ctaPrimary": "Iniciar sesión",
     "ctaSecondary": "Ver cómo funciona",
     "trust1": "Reservas en segundos",
     "trust2": "Cero fricción",
@@ -157,7 +157,7 @@
     "title": "Tu hora en un swipe",
     "lede": "Peluquerías, barberías, estética, kinesiólogos, psicólogos, entrenadores, clínicas y más. Si atiendes con cita, Swibook es para ti.",
     "aria": "Tipos de negocio",
-    "cta": "Lista de espera",
+    "cta": "Iniciar sesión",
     "items": {
       "beauty": {
         "label": "Belleza",
@@ -234,39 +234,22 @@
         "a": "Si sabes usar el celular, sabes usar Swibook. Simple para ti y para tus clientes."
       },
       {
-        "q": "¿Cuándo abre y cuánto cuesta?",
-        "a": "Estamos abriendo cupos por etapas con la lista de espera. El precio se confirma al darte acceso; te avisamos antes de que empiece cualquier cobro."
+        "q": "¿Cuánto cuesta?",
+        "a": "El precio se confirma al crear tu cuenta. Te avisamos antes de que empiece cualquier cobro."
       }
     ]
   },
   "cta": {
-    "kicker": "Lista de espera",
-    "title": "Reserva tu lugar en la lista de espera",
-    "lede": "Swibook está abriendo cupos por etapas. Déjanos tus datos y te avisamos cuando puedas entrar — sin spam, solo acceso.",
+    "kicker": "Empieza",
+    "title": "Entra a Swibook",
+    "lede": "Inicia sesión y empieza a llenar tu agenda sin fricción.",
+    "primary": "Iniciar sesión",
     "secondary": "Ver el flujo otra vez"
-  },
-  "waitlist": {
-    "name": "Nombre",
-    "namePlaceholder": "Tu nombre",
-    "email": "Email",
-    "emailPlaceholder": "tunombre@negocio.com",
-    "role": "Soy",
-    "roleProfessional": "Profesional / tengo un negocio",
-    "roleClient": "Cliente / quiero reservar",
-    "business": "Negocio (opcional)",
-    "businessPlaceholder": "Ej. salón, clínica, trainer…",
-    "submit": "Quiero estar en la lista de espera",
-    "submitting": "Reservando…",
-    "note": "Te contactamos solo para avisarte cuando haya cupo.",
-    "success": "Listo — ya estás en la lista de espera. Te escribimos cuando abra tu cupo.",
-    "again": "Agregar otro email",
-    "errorEmail": "Revisa el email e inténtalo de nuevo.",
-    "errorRole": "Elige si eres profesional o cliente.",
-    "errorGeneric": "No pudimos guardar tu lugar. Inténtalo otra vez."
   },
   "footer": {
     "tagline": "Desliza. Reserva. Listo.",
     "copyright": "© {{year}} Swibook. Todos los derechos reservados.",
+    "login": "Iniciar sesión",
     "terms": "Términos y condiciones",
     "privacy": "Privacidad",
     "contact": "Contacto"

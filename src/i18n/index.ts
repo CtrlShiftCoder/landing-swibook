@@ -25,6 +25,13 @@ export const SITE_URL =
   (import.meta.env.VITE_SITE_URL as string | undefined)?.replace(/\/$/, "") ||
   "https://swibook.sibylab.com";
 
+/** Product app origin (auth, dashboard). Landing stays separate. */
+export const APP_URL =
+  (import.meta.env.VITE_APP_URL as string | undefined)?.replace(/\/$/, "") ||
+  "https://swibook.app";
+
+export const LOGIN_URL = `${APP_URL}/login`;
+
 export type AppLocale = "es" | "en";
 
 export function localeFromPath(pathname: string): AppLocale {
